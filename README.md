@@ -1,2 +1,2 @@
 # Dynamic-Programming-3
-Coin Change and Minimum Falling Path Sum
+Paint House and Minimum Falling Path Sum
